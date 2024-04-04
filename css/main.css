@@ -1,1 +1,10 @@
 /* Place CSS styles here */
+body{
+    font-family: "Zilla Slab", serif;
+}
+.prebday-outer{
+    background-color: blueviolet;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
