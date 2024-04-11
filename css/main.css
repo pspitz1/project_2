@@ -1,10 +1,33 @@
 /* Place CSS styles here */
 body{
-    font-family: "Zilla Slab", serif;
+font-family: "neue-haas-grotesk-display", sans-serif;
+
+h1
+{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 150px;
+   font-weight: 400px;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(79, 155, 255);
+   
+}  
+h2{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 150px;
+   font-weight: 400px;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(35, 63, 176);
+   
+}  
+h3{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 86px;
+   font-weight: 400px;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(21, 34, 86);
+   margin-top: 100px;
+}  
+background-color: rgb(255, 179, 0);
 }
-.prebday-outer{
-    background-color: blueviolet;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-}
+
+
