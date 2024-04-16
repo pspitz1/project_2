@@ -4,28 +4,113 @@ font-family: "neue-haas-grotesk-display", sans-serif;
 
 h1
 {font-family: "neue-haas-grotesk-display", sans-serif;
-    font-size: 150px;
-   font-weight: 400px;
+    font-size: 156px;
+   font-weight: 700;
    font-style: normal;
    line-height: 0%;
    color: rgb(79, 155, 255);
+   text-align: center;
    
 }  
 h2{font-family: "neue-haas-grotesk-display", sans-serif;
     font-size: 150px;
-   font-weight: 400px;
+   font-weight: 700;
    font-style: normal;
    line-height: 0%;
    color: rgb(35, 63, 176);
-   
+   text-align: center;
 }  
 h3{font-family: "neue-haas-grotesk-display", sans-serif;
     font-size: 86px;
-   font-weight: 400px;
+   font-weight: 700;
    font-style: normal;
    line-height: 0%;
    color: rgb(21, 34, 86);
-   margin-top: 100px;
+   margin-top: -23px;
+   text-align: center;
+}  
+p{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 18px;
+   font-weight: 400;
+   font-style: italic;
+   line-height: 0%;
+   color: rgb(255, 255, 255);
+   margin-top: -34px;
+   text-align: center;
+}
+.year{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 182px;
+   font-weight: 700;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(255, 255, 255);
+   margin-top: 84px;
+   text-align: center;
+   }
+   .info{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 18px;
+   font-weight: 400;
+   font-style: italic;
+   line-height: 107%;
+   color: rgb(255, 255, 255);
+   margin-top: 80px;
+   text-align: center;
+   }
+   .thin{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 203px;
+   font-weight: 100;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(79, 155, 255);
+   margin-top: 85px;
+   text-align: center;
+}  
+.light{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 152px;
+   font-weight: 300;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(52, 94, 218);
+   margin-top: 143px;
+   text-align: center;
+}  
+.medium{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 104px;
+   font-weight: 500;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(35, 63, 176);
+   margin-top: 109px;
+   text-align: center;
+}  
+.bold{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 150px;
+   font-weight: 700;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(25, 47, 132);
+   margin-top: 107px;
+   text-align: center;
+}  
+.black{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 118px;
+   font-weight: 900;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(21, 34, 86);
+   margin-top: 112px;
+   text-align: center;
+}  
+.specialcharacters{font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 79px;
+   font-weight: 900;
+   font-style: normal;
+   line-height: 0%;
+   color: rgb(255, 255, 255);
+   margin-top: 89px;
+   text-align: center;
 }  
 background-color: rgb(255, 179, 0);
 }
